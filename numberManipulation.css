@@ -1,0 +1,12 @@
+#input-fields {
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
+#submit-button {
+    margin-top: 20px;
+}
+
+#results {
+    border: 2px solid black;
+}
